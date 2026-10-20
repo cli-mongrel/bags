@@ -3,7 +3,7 @@ BAGS - btrettel’s air gun simulation
 
 BAGS is a simulator script written by btrettel and is being maintained by yours truly.
 
-Right now, the simulation is configred simply be editing the script with values:
+Right now, the simulation is configured simply by editing the script with values:
 ```# inputs that describe the gun
 
 gas = 'air'
